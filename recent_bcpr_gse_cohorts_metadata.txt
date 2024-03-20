@@ -1,0 +1,8 @@
+The "recent_bcpr_gse_cohorts.csv" contains Current Balances and BCPR3 for two different mortgage products and GSEs for the first two months of 2024.  The following is the data dictionary for the data set.
+
+
+"GSE"=A factor variable with 2 classes, defining the corresponding Government Sponsored Enterprise
+"Product"=A factor variable with 2 classes, defining the corresponding duration of the Fixed Rate Mortgage
+"Activity Month"=The month in which the prepayment activity occured
+"Current Balance"=The outstanding unpaid principal balance at the end of the Activity Month
+"BCPR3"=The 3-Month Benchmarked Conditional Prepayment Rate
